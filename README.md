@@ -1,2 +1,1 @@
-# golang_example
-# golang_example
+# golang 学习实例代码
