@@ -12,7 +12,6 @@ import (
 
 /*
 func main() {
-
 	fi,err := os.Open(os.Args[1])
 	if err != nil {
 		log.Fatal(err)
@@ -20,11 +19,9 @@ func main() {
 	defer fi.Close()
 
 	scanner := bufio.NewScanner(fi)
-
 	for scanner.Scan() {
 		fmt.Println(scanner.Text())
 	}
-
 }
 */
 
