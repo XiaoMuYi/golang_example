@@ -1,5 +1,3 @@
-//usage: go run ReadFile.go /file/path
-
 package main
 
 import (
